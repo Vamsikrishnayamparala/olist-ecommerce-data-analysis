@@ -1,4 +1,32 @@
-# olist-ecommerce-data-analysis
+## 📊 Project Overview
+
+This project analyzes the **Olist Brazilian E-commerce dataset** to understand key business metrics such as revenue performance, customer behavior, order fulfillment, and payment trends.
+
+The analysis was performed using **SQL for data extraction and transformation** and **Microsoft Excel for dashboard visualization**.
+
+### 🎯 Objectives
+- Analyze total revenue and order trends
+- Evaluate order delivery performance and cancellation rates
+- Understand customer purchase behavior
+- Identify most used payment methods
+- Provide actionable business insights and recommendations
+
+### 🛠 Tools Used
+- SQL (joins, aggregations, grouping)
+- Microsoft Excel (pivot tables, charts, dashboard)
+
+### 📈 Key Insights
+- Over **95% of orders are successfully delivered**, indicating strong logistics performance
+- **Credit card is the most used payment method**, contributing highest revenue share
+- Orders show **seasonal trends with peak months driving higher sales**
+- A few regions contribute the majority of revenue, indicating geographic concentration
+
+### 💡 Business Recommendations
+- Improve customer retention strategies to increase repeat purchases
+- Increase marketing campaigns before peak months
+- Provide offers on digital payment methods to improve conversions
+- Focus on high-performing regions and expand into underperforming markets
+- # olist-ecommerce-data-analysis
 SQL + Excel analysis of Olist e-commerce dataset to extract revenue, customer behavior and payment insights.
 ## 📸 Dashboard Preview
 
